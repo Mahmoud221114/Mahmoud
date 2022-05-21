@@ -187,12 +187,12 @@ section {
 }
 
 .project-card:hover {
-   transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 .project-card:hover .project-image {
     opacity: 0.9;
- }
+}
 
 .project-image img{
     width: 100%
